@@ -1,2 +1,2 @@
 # galaxy-workflows
-A collection of Galaxy workflows, mostly for testing
+A collection of Galaxy workflows, mostly for testing2
